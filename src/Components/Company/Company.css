@@ -1,0 +1,32 @@
+ 
+.company__container{
+  width: 1300px;
+  height: 600px;
+  
+}
+.company__box{
+    padding-top: 80px;
+}
+.company__list{
+   display: flex;
+   justify-content: space-between;
+   width: 900px;
+   padding-bottom: 100px;
+}
+.company__item{
+  list-style: none;
+}
+.company__title{
+    font-size: 30px;
+    color: #fff;
+    padding: 70px 0px;
+}
+.company__title__name{
+    color: #fff;
+    font-size: 50px;
+    padding: 15px 0px;
+}
+.company__text{
+    color: #fff;
+    font-size: 20px;
+}

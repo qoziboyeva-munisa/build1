@@ -1,0 +1,46 @@
+
+.build{
+     background-image: url(../Build/build21.png);
+     height: 800px;
+     background-size: 100%;
+     background-repeat:repeat;
+}
+.build__container{
+    width: 1300px;
+}
+.build__box{
+    padding-top: 100px;
+}
+.build__link{
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 30px;
+    border: 1px solid #fff;
+    border-radius:30px ;
+    font-size: 20px;
+}
+.build__link:hover{
+    background-color: #fff;
+    color: black;
+    opacity: 0.8;
+}
+.build__title{
+    color: #fff;
+    font-size: 24px;
+    padding: 50px 0px;
+}
+.build__title__name{
+    font-size: 50px;
+    padding-bottom: 30px;
+    color: #fff;
+    width: 500px;
+    line-height: 70px;
+}
+.build__text{
+    color: #fff;
+    font-size: 18px;
+    padding-bottom: 100px;
+    width: 450px;
+    line-height: 30px;
+}
+

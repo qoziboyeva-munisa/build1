@@ -1,0 +1,32 @@
+{
+    "navbar":{
+     "infor":"Information",
+     "about":"About Us",
+     "enter":"Enterprises",
+     "our":"Our advantages",
+     "news":"News",
+     "commun":"Communication",
+     "uz":"Uz",
+     "ru":"Ru",
+     "en":"En"
+},
+"header":{
+    "atayev":"ATAYEV BAHODIR BUILD",
+    "excel":"Excellence in everything",
+    "our":"Our Projects",
+    "connec":"Connection"
+},
+"servic":{
+    "our":"Our services ",
+    "can":"You can get free information from our company's specialists",
+    "document":"Documents",
+    "clear":"clearance",
+    "rep":"Repair",
+    "cor":"correction",
+    "servic":"service",
+    "of":"Team of",
+    "prof":"professionals"
+}
+
+
+}

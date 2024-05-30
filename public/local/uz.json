@@ -1,0 +1,33 @@
+{
+    "navbar":{
+     "infor":"Ma`lumot",
+     "about":"Biz haqimizda",
+     "enter":"Korxonalar",
+     "our":"Bizning afzalliklarimiz",
+     "news":"Yangiliklar",
+     "commun":"Aloqa",
+     "uz":"Uz",
+     "ru":"Ru",
+     "en":"En"
+
+},
+"header":{
+    "atayev":"ATAYEV BAHODIR QURILISH",
+    "excel":"Hamma narsada mukammallik",
+    "our":"Bizning loyihalarimiz",
+    "connec":"Ulanish"
+},
+"servic":{
+    "our":"Bizning xizmatlarimiz",
+    "can":"Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz mumkin",
+    "document":"Hujjatlarni",
+    "clear":"rasmiylashtirish",
+    "rep":"Ta'mirlashni",
+    "cor":"tuzatish",
+    "servic":"xizmati",
+    "of":"Professionallar",
+    "prof":"jamoasi"
+}
+
+
+}
