@@ -26,6 +26,67 @@
     "servic":"service",
     "of":"Team of",
     "prof":"professionals"
+},
+"company":{
+    "our":"Our company",
+    "number":"Number of employees",
+    "object":"Objects",
+    "spec":"Special equipment",
+    "years":"14 years on the market"
+},
+"main":{
+    "hom":"Your dream home"
+},
+"project":{
+    "our":"Our Projects",
+    "magic":"Magic City",
+    "large":" This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions.",
+    "gardens":"Gardens Residence",
+    "multifun":"Multifunctional residential complex created to provide comfort to the residents of Uzbekistan.",
+    "fonon":"Fonon",
+    "grandios":"A grandiose residential area in the heart of the capital.",
+    "invento":"Invento",
+    "jewel":"Fonon is a jewelry production plant in Uzbekistan built on the basis of Italian ones in 2020. Fonon is the only large enterprise in Central Asia producing jewelry from precious metals in European and Oriental styles,",
+    "presi":"Presidential School",
+    "inter":"International kindergarten and school located in the international business center of Tashkent City.",
+    "boul":"Boulevard ",
+    "education":"This is an educational institution that provides knowledge at an international level"
+},
+"news":{
+    "all":"All our news",
+    "news":"News",
+    "construc":"Who is a construction project manager?",
+    "discover":"The Discover Invest company has several construction project managers. This is a specialist responsible for the successful implementation of the construction site entrusted to him. He manages the entire process, from the planning stage and approval of project documentation to the commissioning of the building, and sometimes also performs post-project support. Latest ",
+    "congra":"Congratulations to everyone on the upcoming 2024!",
+    "sop":"The sophisticated interior design of the halls will create an atmosphere of comfort even before entering the apartment, and a convenient navigation system will help you easily get to the floor you need or exit to the territory",
+    "location":"Location",
+    "transport":"The transport infrastructure allows you to easily move to anywhere in the city: you just have to choose the desired and desired direction.",
+    "continui":"We continue to introduce you to the multifunctional objects of Discover Invest.",
+    "yangi":"We continue to introduce you to the multifunctional objects of Discover Invest. One of them is the Yangi Choshtepa residential complex built in the Yangihayat district of Tashkent. The total construction area is 12 hectares. To date, 29 houses have been built."
+},
+"exchange":{
+    "exchange":"Exchange ideas with partners"
+},
+"build":{
+    "atayev":"ATAEV BAHODIR BUILD",
+    "dont":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for environmental aspects associatel with the construction and operation of buildings and infrastructure",
+    "more":"Learn More"
+},
+"ending":{
+    "have":"Do you have any questions, suggestions or requests?",
+    "name":"Your name",
+    "number":"Your phone number",
+    "messege":"Your messege",
+    "sending":"Sending"
+},
+"footer":{
+    "sub":"Subscribe to our social networks",
+    "our":"Our company",
+    "enter":"Enterprises",
+    "about":"About Us",
+    "news":"News",
+    "project":"Our Projects",
+    "commun":"Communication"
 }
 
 

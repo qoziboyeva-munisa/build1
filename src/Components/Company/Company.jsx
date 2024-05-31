@@ -1,6 +1,7 @@
 
 import "./Company.css"
 import company1 from "../../assets/img/company1.jpg"
+import { t } from "i18next"
 function Company(){
 
     const backgraundImgStyle = { 
@@ -21,23 +22,23 @@ function Company(){
         >
             <div className="container company__container"  >
                <div className="company__box">
-               <h1 className="company__title">Our company</h1>
+               <h1 className="company__title">{t("company.our")}</h1>
                 <ul className="company__list">
                     <li className="company__item">
                         <h1 className="company__title__name">120 +</h1>
-                        <p className="company__text">Number of employees</p>
+                        <p className="company__text">{t("company.number")}</p>
                     </li>
                     <li className="company__item">
                         <h1 className="company__title__name">43 +</h1>
-                        <p className="company__text">Objects</p>
+                        <p className="company__text">{t("company.object")}</p>
                     </li>
                     <li className="company__item">
                         <h1 className="company__title__name">250 +</h1>
-                        <p className="company__text">Special equipment</p>
+                        <p className="company__text">{t("company.spec")}</p>
                     </li>
                     <li className="company__item">
                         <h1 className="company__title__name">2 +</h1>
-                        <p className="company__text">14 years on the market</p>
+                        <p className="company__text">{t("company.years")}</p>
                     </li>
                 </ul>
                </div>

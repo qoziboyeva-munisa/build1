@@ -2,9 +2,11 @@
 
 import "./Footer.css"
 import footer from "../../assets/img/footer.png"
+import { useTranslation } from "react-i18next"
 
 
 function Footer(){
+    const {t}= useTranslation()
     return(
         <>
         <div className="footer">
@@ -12,7 +14,7 @@ function Footer(){
                 <ul className="footer__list">
                     <li className="footer__item">
                           <img className="footer__img" src={footer} alt="" />
-                          <h1 className="footer__title">Subscribe to our social networks</h1>
+                          <h1 className="footer__title">{t("footer.sub")}</h1>
                           <div className="footer__wrap">
                             <a href="#" className="footer__icon">
                             <i className="fa-brands fa-instagram fa-xl" style={{color:"#fff"}}></i>
@@ -23,14 +25,14 @@ function Footer(){
                           </div>
                     </li>
                     <li className="footer__item">
-                          <h1 className="footer__title">Our company</h1>
-                          <a href="#" className="footer__link">Enterprises</a>
-                          <a href="#" className="footer__link">About Us</a>
-                          <a href="#" className="footer__link">News</a>
-                          <a href="#" className="footer__link">Our Projects</a>
+                          <h1 className="footer__title">{t("footer.our")}</h1>
+                          <a href="#" className="footer__link">{t("footer.enter")}</a>
+                          <a href="#" className="footer__link">{t("footer.about")}</a>
+                          <a href="#" className="footer__link">{t("footer.news")}</a>
+                          <a href="#" className="footer__link">{t("footer.project")}</a>
                     </li>
                     <li className="footer__item">
-                          <h1 className="footer__title">Communication</h1>
+                          <h1 className="footer__title">{t("footer.commun")}</h1>
                           <p className="footer__text">+998974839999</p>
                           <p className="footer__text">+998997126666</p>
                     </li>

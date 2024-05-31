@@ -5,14 +5,17 @@ import main3 from "../../assets/img/main3.jpg"
 import main4 from "../../assets/img/main4.jpg"
 import main5 from "../../assets/img/main5.jpg"
 import main6 from "../../assets/img/main6.jpg"
+import { useTranslation } from "react-i18next"
 
 function Main(){
+    const {t} = useTranslation();
+    
 
     return(
 
         <>
          <div className="main">
-                <h1 className="main__title">Your dream home</h1>
+                <h1 className="main__title">{t("main.hom")}</h1>
                  <div className="main__wrapper">
                  <img className="main__img" src={main1} alt="" />
                  <img className="main__img" src={main2} alt="" />

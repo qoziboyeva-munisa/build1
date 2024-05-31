@@ -8,14 +8,16 @@ import exchange5 from "../../assets/img/exchange5.jpg"
 import exchange6 from "../../assets/img/exchange6.jpg"
 import exchange7 from "../../assets/img/exchange7.jpg"
 import exchange8 from "../../assets/img/exchange8.jpg"
+import { useTranslation } from "react-i18next"
 
 function Exchange(){
+    const {t}= useTranslation();
 
     return(
           <>
          <div className="exchange">
             <div className="conatiner exchange__container">
-                <h1 className="exchange__title">Exchange ideas with partners</h1>
+                <h1 className="exchange__title">{t("exchange.exchange")}</h1>
                
             </div>
             <div className="exchange__wrapper">

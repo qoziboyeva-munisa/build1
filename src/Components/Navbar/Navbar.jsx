@@ -2,6 +2,7 @@ import "./Navbar.css"
 
 import build1 from "../../assets/img/build1.png"
 import { useTranslation } from "react-i18next";
+import TemporaryDrawer from "../../Modal/Modal";
 
 function Navbar(){
     const {t,i18n} = useTranslation();
@@ -39,10 +40,8 @@ function Navbar(){
                     <li className="navbar__item">
                         <a href="#" className="navbar__link">{t("navbar.commun")}</a>
                     </li>
-                    <li className="navbar__item">
-                        <a href="#" className="navbar__link"></a>
-                    </li>
                 </ul>
+                <TemporaryDrawer/>
                 <select className="navbar__select" onChange={handleChange} value={i18n.language}>
                     <option className="navbar__option" value="uz">{t("navbar.uz")}</option>
                     <option className="navbar__option" value="ru">{t("navbar.ru")}</option>

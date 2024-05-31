@@ -7,7 +7,7 @@
    
 }
 .header__container{
-  height: 700px;
+  height: 800px;
 }
 .header__box{
    padding-top: 250px;
@@ -29,7 +29,8 @@
     text-decoration: none;  
     color: #fff;
     border: 3px solid #fff;
-    width: 150px;
+    width: 180px;
+    text-align: center;
     height: 50px;
     display: flex;
     justify-content: center;
@@ -40,7 +41,7 @@
       color: #5e6379;
    }
 .header__wrapper{
-    width: 320px;
+    width: 400px;
     display: flex;
     justify-content: space-between;
 }

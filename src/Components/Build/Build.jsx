@@ -1,19 +1,21 @@
+import { useTranslation } from "react-i18next"
 import "./Build.css"
+import build21 from "../../assets/img/build21.png"
 
 function Build(){
+    const {t}= useTranslation();
 
     return(
 
         <>
          <div className="build" >
+            <img className="build__img" src={build21} alt="" />
             <div className="container build__container">
                 <div className="build__box">
-                    <h1 className="build__title">ATAEV BAHODIR BUILD</h1>
-                    <h2 className="build__title__name">ATAEV BAHODIR BUILD</h2>
-                    <p className="build__text">
-                        We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for environmental aspects associatel with the construction and operation of buildings and infrastructure 
-                    </p>
-                   <a href="#" className="build__link">Learn More</a>
+                    <h1 className="build__title">{t("build.atayev")}</h1>
+                    <h2 className="build__title__name">{t("build.atayev")}</h2>
+                    <p className="build__text">{t("build.dont")} </p>
+                   <a href="#" className="build__link">{t("build.more")}</a>
                 </div>
             </div>
          </div>

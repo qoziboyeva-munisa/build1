@@ -27,6 +27,67 @@
     "servic":"xizmati",
     "of":"Professionallar",
     "prof":"jamoasi"
+},
+"company":{
+    "our":"Bizning kompaniyamiz",
+    "number":"Xodimlar soni",
+    "object":"Ob'ektlar",
+    "spec":"Maxsus jihozlar",
+    "years":"Bozorda 14 yil"
+},
+"main":{
+    "hom":"Sizning orzuingizdagi uy"
+},
+"project":{
+    "our":"Bizning loyihalarimiz",
+    "magic":"Sehrli shahar",
+    "large":" Bu keng ko‘lamli ijtimoiy ahamiyatga ega loyihadir. Toshkentdagi madaniy-ko‘ngilochar klaster yangi attraksionlardan biridir.",
+    "gardens":"Bog'lar qarorgohi",
+    "multifun":"Oʻzbekiston aholisiga qulaylik yaratish maqsadida yaratilgan koʻp funksiyali turar-joy majmuasi.",
+    "fonon":"Fonon",
+    "grandios":"Poytaxt markazidagi muhtasham turar-joy massivi.",
+    "invento":"Ixtiro qilish",
+    "jewel":"Fonon — Oʻzbekistonda 2020-yilda Italiya zavodlari asosida qurilgan zargarlik buyumlari ishlab chiqaruvchi zavod. Fonon — Markaziy Osiyodagi Yevropa va Sharq uslublarida qimmatbaho metallardan zargarlik buyumlari ishlab chiqaradigan yagona yirik korxona.",
+    "presi":"Prezident maktabi",
+    "inter":"Tashkent City xalqaro biznes markazida joylashgan xalqaro bolalar bog'chasi va maktabi.",
+    "boul":"Bulvar",
+    "education":"Bu xalqaro darajada bilim beradigan ta'lim muassasasi"
+},
+"news":{
+    "all":"Barcha yangiliklarimiz",
+    "news":"Yangiliklar",
+    "construc":"Qurilish loyihasi menejeri kim?",
+    "discover":"Discover Invest kompaniyasida bir nechta qurilish loyihalari menejerlari mavjud. Bu unga ishonib topshirilgan qurilish maydonchasini muvaffaqiyatli amalga oshirish uchun mas'ul bo'lgan mutaxassis. U rejalashtirish bosqichidan va loyiha hujjatlarini tasdiqlashdan binoni foydalanishga topshirishgacha bo'lgan butun jarayonni boshqaradi, ba'zan esa loyihadan keyingi yordamni ham amalga oshiradi. Oxirgi",
+    "congra":"Barchani kirib kelayotgan 2024-yil bilan tabriklayman!",
+    "sop":"Zallarning murakkab ichki dizayni kvartiraga kirishdan oldin ham qulaylik muhitini yaratadi va qulay navigatsiya tizimi sizga kerakli qavatga osongina chiqishga yoki hududga chiqishga yordam beradi.",
+    "location":"Manzil",
+    "transport":"Transport infratuzilmasi shaharning istalgan nuqtasiga osongina ko'chib o'tishga imkon beradi: siz faqat kerakli va kerakli yo'nalishni tanlashingiz kerak.",
+    "continui":"Biz sizni Discover Invest ko'p funksiyali ob'ektlari bilan tanishtirishda davom etamiz.",
+    "yangi":"Biz sizni Discover Invest ko'p funksiyali ob'ektlari bilan tanishtirishda davom etamiz. Poytaxtimizning Yangihoyat tumanida barpo etilgan “Yangi Choshtepa” turar-joy majmuasi ulardan biri. Qurilishning umumiy maydoni 12 gektarni tashkil etadi. Shu kungacha 29 ta uy-joy qurildi."
+},
+"exchange":{
+    "exchange":"Hamkorlar bilan fikr almashish"
+},
+"build":{
+    "atayev":"ATAEV BAHODIR QURILISH",
+    "dont":"Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz: kompaniya binolar va infratuzilmani qurish va ulardan foydalanish bilan bog'liq ekologik jihatlar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+    "more":"Batafsil ma'lumot"
+},
+"ending":{
+    "have":"Savollaringiz, takliflaringiz yoki iltimoslaringiz bormi?",
+    "name":"Ismingiz",
+    "number":"Sizning telefon raqamingiz",
+    "messege":"Xabaringiz",
+    "sending":"Yuborilmoqda"
+},
+"footer":{
+    "sub":"Ijtimoiy tarmoqlarimizga obuna bo'ling",
+    "our":"Bizning kompaniyamiz",
+    "enter":"Korxonalar",
+    "about":"Biz haqimizda",
+    "news":"Yangiliklar",
+    "project":"Bizning loyihalarimiz",
+    "commun":"Aloqa"
 }
 
 
