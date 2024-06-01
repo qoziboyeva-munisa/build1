@@ -4,6 +4,16 @@
     position: fixed;
     left: 0;
     right: 0;
+    z-index: 3;
+}
+.navbar__blue{
+    background-color:#fce8bd;
+}
+.link__blue{
+    color: black;
+}
+.link-transparent{
+    color: #000;
 }
 .navbar__container{
     width: 1200px;

@@ -22,7 +22,7 @@ function Project(){
 
     return (
           <>
-           <div className="project">
+           <div className="project" id="project">
             <div className="container project__container">
                 <h1 className="project__title">{t("project.our")}</h1>
                 <ul className="project__list">

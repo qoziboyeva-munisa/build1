@@ -1,14 +1,23 @@
 
-import { t } from "i18next"
 import Navbar from "../Navbar/Navbar"
 import "./Header.css"
 import { useTranslation } from "react-i18next"
+import build11 from "../../assets/img/build11.jpg"
 
 function Header(){
+
+    const backgraundImgStyle = { 
+        background: `linear-gradient(rgba(0, 0, 0 ,0.4), rgba(0, 0, 0, 0.4)),url(${build11})`,
+        backgroundSize:"cover",
+        backgroundPosition:"center",
+        height:"100%",
+    
+    }
+
     const {t} = useTranslation( )
     return(
         <>
-        <div className="header">
+        <div className="header" style={backgraundImgStyle} id="header">
         <Navbar/>
        
             <div className="container header__container">

@@ -10,7 +10,7 @@ function News(){
 
     return(
         <>
-        <div className="news">
+        <div className="news" id="news">
             <div className="container news__container">
                 <h1 className="news__title">{t("news.all")}</h1>
 

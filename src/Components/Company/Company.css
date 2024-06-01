@@ -1,4 +1,6 @@
- 
+ .company{
+  background-size: 100%;
+ }
 .company__container{
   width: 1300px;
   height: 600px;

@@ -1,11 +1,11 @@
 
-.header{
+/* .header{
    background-image: url(/src/assets/img/build11.jpg ) ;
    background-size: 100%;
    background-repeat: no-repeat;
    filter: brightness(0.8);
    
-}
+} */
 .header__container{
   height: 800px;
 }

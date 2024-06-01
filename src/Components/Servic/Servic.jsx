@@ -11,7 +11,7 @@ function Servic(){
     return(
         <>
 
-          <div className="servic">
+          <div className="servic" id="servic">
             <div className="container servic__container">
                 <h1 className="servic__title">{t("servic.our")}</h1>
                 <ul className="servic__list">
